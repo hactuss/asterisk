@@ -6,13 +6,7 @@
 
 <svelte:head>
     <link rel="icon" href={favicon} />
-    <title>a_risk</title>
+    <title>asterisk by hactus | Desgin</title>
 </svelte:head>
-<nav>
-    <img src="" alt="some" />
-    <a href="">link</a>
-</nav>
+<nav></nav>
 {@render children()}
-<footer>
-    <div></div>
-</footer>
