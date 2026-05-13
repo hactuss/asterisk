@@ -4,13 +4,7 @@
 
 <main>
     <header class="title_card">
-        <span style:background-color="red"
-            >Asterisk brand is already taken. <a
-                href="https://asteriskdesign.com"
-                style:mix-blend-mode="normal"
-                target="_blank">asteriskdesign.com</a
-            ></span
-        >
+        <span style:background-color="red">Asterisk brand is already taken.</span>
         <div class="title_card">
             <img
                 src={image}
